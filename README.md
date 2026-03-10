@@ -71,7 +71,7 @@
 
 ### 📚 Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,Tensorflow" />
 
 </td>
 
@@ -83,7 +83,7 @@
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 </td>
 
@@ -91,7 +91,7 @@
 
 ### 🧰 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,linux,docker,kubernetes,aws,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,linux,docker,kubernetes,aws,postman,vscode,Anaconda" />
 
 </td>
 
