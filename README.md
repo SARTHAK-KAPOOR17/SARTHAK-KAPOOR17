@@ -20,7 +20,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/📧_yourmail@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:sarthakkapoor526@gmail.com"><img src="https://img.shields.io/badge/📧sarthakkapooor526l@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/⚡_Building_Backend_Systems-1e1e2e?style=for-the-badge" />
   </p>
